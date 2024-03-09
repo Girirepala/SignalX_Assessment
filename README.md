@@ -1,3 +1,12 @@
+# Screenshots
+![HomePage](HomePage.jpg "Home")
+
+![ModelPage](ModelPage.jpg "ModelPage")
+![No data Fund](NodataFound.jpg "No data Fund")
+![Productpage](Productpage.jpg "Productpage")
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
